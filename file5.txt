@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 bc
+abc
+>>>>>>> first
 xabc
 123
